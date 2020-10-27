@@ -30,6 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7080ff30-f4dc-4f89-a7df-5629d579afab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,7 @@
       <updated>1571893796328</updated>
       <workItem from="1603763376375" duration="1374000" />
       <workItem from="1603765944339" duration="495000" />
+      <workItem from="1603767281383" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1571893983191</created>
@@ -383,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603766067008</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="修改provider">
+      <created>1603767307189</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1603767307189</updated>
+    </task>
+    <task id="LOCAL-00043" summary="修改provider">
+      <created>1603767555999</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1603767555999</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,10 +511,10 @@
       <screen x="0" y="23" width="1920" height="980" />
     </state>
     <state x="715" y="373" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.980@0.23.1920.980" timestamp="1603443844127" />
-    <state x="585" y="27" key="CommitChangelistDialog2" timestamp="1603766066550">
+    <state x="585" y="27" key="CommitChangelistDialog2" timestamp="1603767555635">
       <screen x="0" y="23" width="2560" height="1344" />
     </state>
-    <state x="585" y="27" key="CommitChangelistDialog2/-1280.23.1280.777/0.23.2560.1344@0.23.2560.1344" timestamp="1603766066550" />
+    <state x="585" y="27" key="CommitChangelistDialog2/-1280.23.1280.777/0.23.2560.1344@0.23.2560.1344" timestamp="1603767555635" />
     <state x="484" y="24" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1602487440864" />
     <state x="484" y="24" key="CommitChangelistDialog2/0.23.1920.978@0.23.1920.978" timestamp="1602490625312" />
     <state x="439" y="26" key="CommitChangelistDialog2/0.23.1920.980@0.23.1920.980" timestamp="1603443302708" />
@@ -555,10 +571,10 @@
       <screen x="0" y="23" width="1920" height="980" />
     </state>
     <state x="725" y="168" key="RollbackChangesDialog/0.23.1920.980@0.23.1920.980" timestamp="1603443875986" />
-    <state x="673" y="388" key="Vcs.Push.Dialog.v2" timestamp="1603766292557">
+    <state x="673" y="388" key="Vcs.Push.Dialog.v2" timestamp="1603767564193">
       <screen x="0" y="23" width="2560" height="1344" />
     </state>
-    <state x="673" y="388" key="Vcs.Push.Dialog.v2/-1280.23.1280.777/0.23.2560.1344@0.23.2560.1344" timestamp="1603766292557" />
+    <state x="673" y="388" key="Vcs.Push.Dialog.v2/-1280.23.1280.777/0.23.2560.1344@0.23.2560.1344" timestamp="1603767564193" />
     <state x="505" y="289" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1602473922063" />
     <state x="505" y="289" key="Vcs.Push.Dialog.v2/0.23.1920.978@0.23.1920.978" timestamp="1602490628912" />
     <state x="505" y="289" key="Vcs.Push.Dialog.v2/0.23.1920.980@0.23.1920.980" timestamp="1603443355926" />

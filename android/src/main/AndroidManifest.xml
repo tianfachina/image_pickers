@@ -19,7 +19,7 @@
         <activity android:name=".activitys.VideoActivity" android:configChanges="orientation|screenSize"
                   android:theme="@style/AppTheme"/>
 
-        <provider
+        <!--<provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="com.leeson.pickers.fileprovider"
             android:exported="false"
@@ -28,6 +28,6 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 tools:replace="android:resource"
                 android:resource="@xml/pickers_plugin_file_path"/>
-        </provider>
+        </provider>-->
     </application>
 </manifest>
