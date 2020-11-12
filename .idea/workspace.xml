@@ -29,7 +29,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7080ff30-f4dc-4f89-a7df-5629d579afab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +86,12 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -113,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571893796328</updated>
-      <workItem from="1603793812952" duration="294000" />
+      <workItem from="1603793812952" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1571893983191</created>
@@ -325,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591867369201</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="使用iosCrop">
+      <created>1603796342771</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1603796342771</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,6 +405,21 @@
     <MESSAGE value="适配安卓Q文件存储，修复小米手机崩溃问题" />
     <MESSAGE value="修复 iOS 因为图片（right_arrow.png、left_arrow.png、error.png）导致的各种问题" />
     <MESSAGE value="修复 因使用bitmap获取后缀名造成的崩溃" />
-    <option name="LAST_COMMIT_MESSAGE" value="修复 因使用bitmap获取后缀名造成的崩溃" />
+    <MESSAGE value="使用iosCrop" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用iosCrop" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="769" y="227" key="CommitChangelistDialog2" timestamp="1603796342421">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="769" y="227" key="CommitChangelistDialog2/-1280.23.1280.777/0.23.2560.1344@0.23.2560.1344" timestamp="1603796342421" />
+    <state x="783" y="399" key="IDE.errors.dialog" timestamp="1603796308549">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="783" y="399" key="IDE.errors.dialog/-1280.23.1280.777/0.23.2560.1344@0.23.2560.1344" timestamp="1603796308549" />
+    <state x="795" y="389" key="Vcs.Push.Dialog.v2" timestamp="1603796845810">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="795" y="389" key="Vcs.Push.Dialog.v2/-1280.23.1280.777/0.23.2560.1344@0.23.2560.1344" timestamp="1603796845810" />
   </component>
 </project>

@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'AFNetworking'
-  s.dependency 'ZLPhotoBrowser','~> 3.1.2'
+  s.dependency 'ZLPhotoBrowser','~> 4.0.9'
   s.ios.deployment_target = '8.0'
 
 end
