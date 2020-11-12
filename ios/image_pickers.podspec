@@ -20,7 +20,7 @@ A new flutter plugin project.
   s.dependency 'Flutter'
   s.dependency 'AFNetworking'
   s.dependency 'SDWebImage'
-  s.dependency 'ZLPhotoBrowser'
+  s.dependency 'ZLPhotoBrowser','4.0.9'
   s.ios.deployment_target = '10.0'
 
   # Flutter.framework does not contain a i386 slice. Only x86_64 simulators are supported.

@@ -77,6 +77,8 @@ static NSString *const CHANNEL_NAME = @"flutter/image_pickers";
         [ZLPhotoConfiguration default].themeColorDeploy.bottomToolViewBgColor = colorType;
         //首页上部颜色
         [ZLPhotoConfiguration default].themeColorDeploy.navEmbedTitleViewBgColor = colorType;
+
+        [ZLPhotoConfiguration default].themeColorDeploy.selectMorePhotoWhenAuthIsLismitedTitleColor =colorType;
     }else{
         
         /// 导航条颜色
@@ -99,6 +101,8 @@ static NSString *const CHANNEL_NAME = @"flutter/image_pickers";
         [ZLPhotoConfiguration default].themeColorDeploy.bottomToolViewBgColor = [UIColor whiteColor];
         ///首页上部颜色
         [ZLPhotoConfiguration default].themeColorDeploy.navEmbedTitleViewBgColor = [UIColor whiteColor];
+
+        [ZLPhotoConfiguration default].themeColorDeploy.selectMorePhotoWhenAuthIsLismitedTitleColor =[UIColor blackColor];
     }
     /// 相册列表界面 相册title颜色
     [ZLPhotoConfiguration default].themeColorDeploy.albumListTitleColor = [UIColor blackColor];
